@@ -1,7 +1,6 @@
 import React, {useContext} from "react"
 
 import products from "../../data/products"
-import Cart from "../cart"
 import {CartContext} from "../cart/context"
 
 export default function Store() {
@@ -28,6 +27,5 @@ export default function Store() {
           </div>
         </div>
       ))}
-      <Cart stripeToken="pk_test_Gw166heMsl4PMvVG5KubBBSx00mKdHG01c" />
     </div>
 )}

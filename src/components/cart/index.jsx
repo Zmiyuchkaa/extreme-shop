@@ -3,7 +3,7 @@ import { CartContext } from "./context"
 import products from "../../data/products"
 
 function formatPrice(price) {
-  return `$${(price * 0.01).toFixed(2)}`
+  return `${(price * 0.01).toFixed(2)} грн.`
 }
 
 function totalPrice(items) {
