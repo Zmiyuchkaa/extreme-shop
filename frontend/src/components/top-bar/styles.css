@@ -2,6 +2,7 @@
   margin: 0;
   background: #5CB1BA;
   color: white;
+  font-family: 'Roboto', sans-serif;;
 }
 
 .layout.top-bar .wrapper {
@@ -19,4 +20,9 @@
 
 .layout.top-bar .section:last-child {
   text-align: right;
+}
+
+.title {
+  margin: 0;
+  font-size: 20px;
 }
