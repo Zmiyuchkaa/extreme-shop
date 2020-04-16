@@ -1,0 +1,61 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.title {
+  margin: 0;
+  font-size: 20px;
+}
+
+.login-form {
+  margin: 120px auto;
+  width: 300px;
+  text-align: center;
+  display: grid;
+  font-family: 'Roboto', sans-serif;
+}
+
+.label {
+  text-align: left;
+  margin: 5px 0;
+}
+
+.input-field {
+  padding: 20px 5px;
+  font-size: 12px;
+  border-radius: 3px;
+  margin-top: 5px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 12px 28px;
+  border-radius: 4px;
+  background-color: #5CB1BA;
+  color: white;
+  text-decoration: none;
+  width: 50%;
+  font-size: 15px;
+}
+
+.button:hover {
+  opacity: 90%;
+}
+
+.products-block {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  padding: 1em;
+  flex-wrap: wrap;
+  
+}
+
+.product-cards {
+  border: 1px solid grey;
+  width: 300px;
+  height: 200px;
+  padding: 20px;
+  margin: 10px 0;
+}

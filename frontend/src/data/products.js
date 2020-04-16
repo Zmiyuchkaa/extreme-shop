@@ -199,46 +199,6 @@ const items = [
     name: "TP-LINK Archer C9",
     desc: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
   },
-  {
-    sku: "sku_H6fve1AvaOE9TD", 
-    quantity: 1, 
-    price: 25900, 
-    type: "Маршрутизатор",
-    name: "Totolink N100RE-V3",
-    desc: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-  },
-  {
-    sku: "sku_H6fuUtVgHBeCeu", 
-    quantity: 1, 
-    price: 119900, 
-    type: "Маршрутизатор",
-    name: "Keenetic Omni",
-    desc: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-  },
-  {
-    sku: "sku_H6fuUtVgHBeCeu", 
-    quantity: 1, 
-    price: 249900, 
-    type: "Маршрутизатор",
-    name: "TP-LINK Deco E3",
-    desc: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-  },
-  {
-    sku: "sku_H6fuUtVgHBeCeu", 
-    quantity: 1, 
-    price: 215900, 
-    type: "Маршрутизатор",
-    name: "Keenetic Speedster",
-    desc: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-  },
-  {
-    sku: "sku_H6fqWL5PSWlRFP", 
-    quantity: 1, 
-    price: 99900, 
-    type: "Маршрутизатор",
-    name: "Xiaomi Mi WiFi Router 4A R4A",
-    desc: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-  }
 ]
 
 

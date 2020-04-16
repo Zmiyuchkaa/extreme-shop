@@ -9,12 +9,11 @@ export default function TopBar() {
   return <div className="layout top-bar">
     <div className="wrapper">
       <div className="section"><h3 className="title">Логотип</h3></div>
+      <div className="section">Продукция</div>
       <div className="section">
-        <RouterLink to="/">Войти в аккаунт</RouterLink>
-      </div>
-      <div className="section">
-        <RouterLink to="/products">Товары</RouterLink> | {" "}
-        <RouterLink to="/view-cart">Корзина ({numItems})</RouterLink>
+        <RouterLink to="/error" className="link">Выйти из аккаунта</RouterLink>| {" "}
+        <RouterLink to="/products" className="link">Товары</RouterLink> | {" "}
+        <RouterLink to="/view-cart" className="link">Корзина ({numItems})</RouterLink>
       </div>
     </div>
   </div>
